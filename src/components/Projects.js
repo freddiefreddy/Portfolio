@@ -37,7 +37,7 @@ function Projects() {
                 <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
                     Apps I've Built
                 </h1>
-                <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+                <p className="lg:w-2/3 mx-auto leading-relaxed text-base mb-10">
                     Below is  tabulated list of applications have worked on
                 </p>
         {/* </div> */}
@@ -59,11 +59,11 @@ function Projects() {
 
             <ButtonGroup>
                 <button  className={`tab ${checkActive(1, "active")}`} onClick={() => handleClick(1)}>
-                    Python                    
+                    Laravel                   
                 </button>
 
                 <button  className={`tab ${checkActive(2, "active")}`} onClick={() => handleClick(2)}>
-                    Laravel                    
+                    Python                    
                 </button>
 
                 <button  className={`tab ${checkActive(3, "active")}`} onClick={() => handleClick(3)}>
@@ -91,7 +91,7 @@ function Projects() {
                     <div className="flex flex-wrap -m-4">
                         
                             {
-                            project.Python.map((p, i) => (
+                            project.Laravel.map((p, i) => (
                                 <a
                                 href={p.link}
                                 key={p.image}
@@ -124,7 +124,7 @@ function Projects() {
                     <div className="flex flex-wrap -m-4">
                         
                             {
-                            project.Laravel.map((p, i) => (
+                            project.Python.map((p, i) => (
                                 <a
                                 href={p.link}
                                 key={p.image}

@@ -6,7 +6,7 @@ export const projects = [
         subtitle: "Android",
         description:
           "An app for games and question tests. Applicable for gamers and teachers",
-        image: "./project-1.gif",
+        image: "./QuizV4.jpg",
         link: "https://github.com/freddiefreddy/quizapp.git",
       },
 
@@ -15,7 +15,7 @@ export const projects = [
         subtitle: "Android Native & MQTT Client",
         description:
           "An uber look alike project ",
-        image: "./project-1.gif",
+        image: "./whitedriveri.png",
         link: "",
       },
 
@@ -27,7 +27,7 @@ export const projects = [
         subtitle: "Flutter & Firebase & Solidity",
         description:
           "Cryptocurrency Wallet.",
-        image: "./project-1.gif",
+        image: "./cryptonews.jpg",
         link: "https://github.com/freddiefreddy/Bomax-Wallet.git",
       },
 
@@ -36,7 +36,7 @@ export const projects = [
         subtitle: "Flutter & MQTT Client",
         description:
           "An uber look alike project ",
-        image: "./project-1.gif",
+        image: "./whiteclient.png",
         link: "",
       },
     ],
@@ -69,7 +69,7 @@ export const projects = [
         subtitle: "Laravel",
         description:
           "Net sharing project",
-        image: "./project-2.gif",
+        image: "./rent.png",
         link: "https://github.com/freddiefreddy/rentmynet.git",
       },
 
@@ -94,7 +94,7 @@ export const projects = [
         subtitle: "Python and Selenium",
         description:
           "An instagram bot for auto-likes, follow, unfollow and view stories",
-        image: "./project-2.gif",
+        image: "./ins.jpg",
         link: "https://github.com/freddiefreddy/Instagram-Bot.git",
       },
 
@@ -104,7 +104,7 @@ export const projects = [
         subtitle: "Python, Django & Django Restframework",
         description:
           "An instagram bot for auto-likes, follow, unfollow and view stories",
-        image: "./project-2.gif",
+        image: "./Ecommerce.png",
         link: "https://github.com/freddiefreddy/Ecommerce-Rest-API.git",
       },
 
@@ -114,7 +114,7 @@ export const projects = [
         subtitle: "Python",
         description:
           "A Script to download audio and video from youtube via a simple Tkinter GUI application.",
-        image: "./project-2.gif",
+        image: "./youtube.png",
         link: "https://github.com/freddiefreddy/youtube_video_audio_downloader.git",
       },
 
@@ -127,7 +127,7 @@ export const projects = [
         subtitle: "Django & Django Rest Framework",
         description:
           "An Ecommerce rest api to manage products, orders and sales",
-        image: "./project-2.gif",
+        image: "./Ecommerce.png",
         link: "https://github.com/freddiefreddy/Ecommerce-Rest-API.git",
       },
     ],

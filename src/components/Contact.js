@@ -48,8 +48,8 @@ function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Reachout to get your idea into a real world project
-            <br/> I am vailable for full time, part time and freelance work
+            Reachout to get your idea into a real world project.
+            <br/> I am available for full time, part time and freelance work.
 
           </p>
           <div className="relative mb-4">
@@ -88,7 +88,7 @@ function Contact() {
           </div>
           <button
             type="submit"
-            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+            className="text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Submit
           </button>
         </form>

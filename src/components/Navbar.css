@@ -1,12 +1,13 @@
 .tabs {  
-    display: flex;  
+    display: flex;
+    background-color: green;  
  }
 
 .tab {  
     justify-content: center;
     align-items: center;
     width: 100%;
-    background: lightsteelblue; 
+    background: rgb(34 197 94 / var(--tw-bg-opacity)); 
     padding: 2em 0;  
     border: none;
     color: bisque;
