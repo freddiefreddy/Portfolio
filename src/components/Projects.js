@@ -1,29 +1,29 @@
-import { type } from '@testing-library/user-event/dist/type';
+// import { type } from '@testing-library/user-event/dist/type';
 import React, {useState} from 'react';
 import styled from 'styled-components';
 import { projects } from "../data";
-import { CodeIcon } from "@heroicons/react/solid";
+// import { CodeIcon } from "@heroicons/react/solid";
 
 import "./Navbar.css";
 
 
 const ButtonGroup = styled.div`display: flex;`;
-const Tab = styled.button`
-  font-size: 20px;
-  padding: 10px 60px;
-  cursor: pointer;
-  opacity: 0.6;
-  background: white;
-  border: 0;
-  outline: 0;
-  ${({ active }) =>
-    active &&
-    `
-    border-bottom: 2px solid black;
-    opacity: 1;
-  `}
-`;
-const types = ['Android', 'Flutter', 'Vue JS', 'Laravel', 'Python', 'Django'];
+// const Tab = styled.button`
+//   font-size: 20px;
+//   padding: 10px 60px;
+//   cursor: pointer;
+//   opacity: 0.6;
+//   background: white;
+//   border: 0;
+//   outline: 0;
+//   ${({ active }) =>
+//     active &&
+//     `
+//     border-bottom: 2px solid black;
+//     opacity: 1;
+//   `}
+// `;
+// const types = ['Android', 'Flutter', 'Vue JS', 'Laravel', 'Python', 'Django'];
 function Projects() {
     const [activeIndex, setActiveIndex] = useState(1);
     const checkActive  = (index, className) => activeIndex === index ? className : "";
