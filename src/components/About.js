@@ -16,7 +16,7 @@ function About() {
                         frontend, backend and mobile applications. My personal drive is to offfers solution to
                         societal problems in a technological way. Reachout, to turn that bright idea into a real world project.
                     </p>
-                    <div className="flex justify-center">
+                    <div className="flex">
                         
                         <a href="tel:+254-713-723-353" className=" text-white bg-green-500 border-0 py-2 px-2 focus:outline-none hover:bg-green-600 rounded text-lg sm:w-1/2">
                             0713723353
