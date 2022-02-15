@@ -72,7 +72,7 @@ function Contact() {
           </h2>
           <p className="leading-relaxed mb-5">
             Reachout to get your idea into a real world project.
-            <br/> I am available for full time, part time and freelance work.
+            <br/> I am available for  part time and freelance work.
 
           </p>
           <div className="relative mb-4">
