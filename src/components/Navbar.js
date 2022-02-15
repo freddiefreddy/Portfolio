@@ -35,11 +35,11 @@ function Navbar() {
                                 Skills
                             </a>
 
-                            {/* <a href="#cont"
+                            <a href="#contact"
                                 className=" hover:text-black text-white px-3 py-2 rounded-md text-sm font-medium"
                             >
-                                Projects
-                            </a> */}
+                                Hire Me
+                            </a>
 
 
 
@@ -51,9 +51,9 @@ function Navbar() {
                         </div>
                     </div>                    
                 </div>
-                <div className="ml-10 flex items-baseline ">
+                {/* <div className="ml-10 flex items-baseline ">
                     <button className="bg-white hover:bg-gray-50 border-2 border-gray-900 text-sm text-gray-900 py-3 px-5 rounded-lg font-medium tracking-wide leading-none;">Hire Me</button>
-                </div>
+                </div> */}
                 
             
         <div className="-mr-2 flex md:hidden">
