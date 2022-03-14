@@ -37,7 +37,7 @@ export const projects = [
         description:
           "An uber look alike project ",
         image: "./whiteclient.png",
-        link: "",
+        link: "https://play.google.com/store/apps/details?id=com.kenyalab.yellowcabclient&hl=en_US&gl=US",
       },
     ],
 
