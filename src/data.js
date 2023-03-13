@@ -53,6 +53,27 @@ export const projects = [
         link: "https://zalegoacademy.ac.ke/courses",
       },
 
+
+      {
+        id: '',
+        title: "Mweguni Enterprises",
+        subtitle: "Laravel ",
+        description:
+          "Loan Management Platform",
+        image: "./ZalegoLMS.png",
+        link: "http://mweguni.co.ke/",
+      },
+
+      {
+        id: '',
+        title: "Mweguni Enterprises",
+        subtitle: "Laravel ",
+        description:
+          "Mentorship Platform for schools to reachout to Mentor",
+        image: "./ZalegoLMS.png",
+        link: "https://mastadi.org/",
+      },
+
       {
         id: '',
         title: "Quiz Backend",

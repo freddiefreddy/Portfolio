@@ -15,6 +15,7 @@ function Contact() {
 
   function handleSubmit(e) {
     e.preventDefault();
+    console.log(name, email, message);
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
