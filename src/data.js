@@ -60,17 +60,17 @@ export const projects = [
         subtitle: "Laravel ",
         description:
           "Loan Management Platform",
-        image: "./ZalegoLMS.png",
+        image: "./mweguni.png",
         link: "http://mweguni.co.ke/",
       },
 
       {
         id: '',
-        title: "Mweguni Enterprises",
+        title: "Ustadi",
         subtitle: "Laravel ",
         description:
           "Mentorship Platform for schools to reachout to Mentor",
-        image: "./ZalegoLMS.png",
+        image: "./mastadi.png",
         link: "https://mastadi.org/",
       },
 
